@@ -62,30 +62,30 @@ author:
   avatar : "/assets/images/98851.jpg"
   bio    : "Data Scientist"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "LinkedIn"
+    - label: "Email"
+      icon: "fas fa-fw fa-email"
+      url: "siavash.rezazadeh@gmail.com"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/siavash-rezazadeh-21168b7/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/siavrez"
     - label: "kaggle"
       icon: "fab fa-fw fa-kaggle"
-      url: "https://kaggle.com/"
+      url: "https://kaggle.com/siavrez"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/siavash-rezazadeh-21168b7/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/siavrez"
+    - label: "kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://kaggle.com/siavrez"
 
 defaults:
   # _posts
