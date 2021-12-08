@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/98851.jpg"
   bio    : "Data Scientist"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-mail"
-      url: "siavash.rezazadeh@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/siavash-rezazadeh-21168b7/"
